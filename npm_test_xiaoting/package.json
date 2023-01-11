@@ -1,0 +1,12 @@
+{
+    "name": "npm_test_xiaoting",
+    "version": "1.0.0",
+    "description": "dateformat 格式化时间",
+    "main": "index.js",
+    
+    "keywords": ["dateFormat","xiaoting"],
+    
+    "license": "ISC"
+    
+  }
+  
